@@ -34,4 +34,4 @@ SOFTWARE TO BE USED: Programming Language  * Python: For implementing the Naive 
 
 *EXPECTED OUTCOMES:
 
- Prediction in machine learning allows organizations to make predictions about possible outcomes based on historical data. These assumptions allow the organization to make decisions resulting in tangible business results. Predictive analytics can be used to anticipate when users will churn or leave an organization 
+ Prediction in machine learning allows organizations to make predictions about possible outcomes based on historical data. These assumptions allow the organization to make decisions resulting in tangible business results. Predictive analytics can be used to anticipate when users will churn or leave an organization.
