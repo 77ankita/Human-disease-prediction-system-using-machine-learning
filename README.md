@@ -10,6 +10,8 @@ The main objective of this project to predict the human diseases based on the sy
  Python
 # Algorithm
  Naive Bayes Algorithm
+# Tool
+ Pycharm
 # Methodology
 * Training: The model is trained on the dataset to learn the correlation between symptoms and diseases.
 * Testing: The model's accuracy is evaluated on the test dataset.
